@@ -1,0 +1,33 @@
+
+
+----[dojo toolkit cheat sheet]----------------
+
+https://en.wikipedia.org/wiki/Dojo_Toolkit
+
+https://en.wikipedia.org/wiki/OpenJS_Foundation#JS_Foundation
+
+
+https://cheatography.com/karim/cheat-sheets/dojo-1-8/pdf/
+
+https://training.sitepen.com/cheatsheets/DojoCheatSheet.html
+
+
+----[slideshow]----------------
+
+https://www.slideshare.net/vanessametonini/dojo-toolkit
+
+https://www.slideshare.net/jfox015/the-dojo-toolkit-an-introduction
+
+
+
+----[???]----------------
+https://www.ibm.com/docs/en/radfws/9.6.1?topic=dojo-summary-create-web-20-application
+
+https://www.ibm.com/links?url=http%3A%2F%2Fwww.dojotoolkit.org%2F
+
+//???? links to links ????
+https://asmen.icopy.site/awesome/awesome-dojo/
+
+
+
+
