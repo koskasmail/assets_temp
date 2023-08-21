@@ -2,7 +2,7 @@
 
 
 ## me
-   - [https://github.com/koskasmail/assets/new/main/links/]
+   - [https://github.com/koskasmail/assets/blob/main/links/javaScript/30-Days-Of-JavaScript.md]
 
 ## other github
  - [https://github.com/Asabeneh/30-Days-Of-JavaScript/]
