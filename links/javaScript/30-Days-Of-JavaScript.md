@@ -9,8 +9,9 @@
  - [https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md/]
 
 ## other sites
- - [https://javascript30.com/]
  - [https://leetcode.com/studyplan/30-days-of-javascript/]
+ - [https://www.geeksforgeeks.org/design-a-drum-kit-web-app-using-javascript/]
+ - [https://codepen.io/amdsouza92/pen/xdooWa]
  
 
 
