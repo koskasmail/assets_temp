@@ -1,2 +1,3 @@
-# assets
-temp assets files - js,
+# 🔥 assets
+* ⭐ temp assets files - js,
+* ⭐ create a new assets
